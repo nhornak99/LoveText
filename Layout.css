@@ -1,0 +1,38 @@
+﻿#mainContent{
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 20%;
+    background-color: cadetblue;
+    min-height: 65%;
+    max-height: 65%;
+}
+
+#wrapper{
+    min-height: 100%;
+    position: relative;
+}
+
+body{
+    /*background-color: yellow;*/
+}
+
+.trademark{
+            position: relative;
+            top: 1.5em;
+            font-size: 2em;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            color: black;
+            font-weight: 400;
+        }
+
+footer{
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 85%;
+    background-color: green;
+    text-align: center;
+    border-top: 1px solid black;
+}
