@@ -1,12 +1,12 @@
 ﻿
 .navbar{
     min-height: 20%;
-    max-height: 20%;
+    background-color: #AA2545;
     position: fixed;
     right: 0;
     left: 0;
     top: 0;
-    background-color: #AA2545;
+    
 }
 
 .container-fluid{
